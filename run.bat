@@ -1,5 +1,5 @@
 @echo off
-title DawnBot
+title Dawn
     if exist requirements.txt (
 		echo installing wheel for faster installing
 		pip install wheel
